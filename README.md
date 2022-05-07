@@ -6,7 +6,7 @@ Enabled
 
 ----------------------------------------------------------------------------------------------------
 
-Game Optimizing Service .\adb shell pm enable-user --user 0 com.samsung.android.game.gos
+.\adb shell pm enable-user --user 0 com.samsung.android.game.gos
 
 ----------------------------------------------------------------------------------------------------
 
@@ -14,6 +14,6 @@ Disabled
 
 ----------------------------------------------------------------------------------------------------
 
-Game Optimizing Service .\adb shell pm disable-user --user 0 com.samsung.android.game.gos
+.\adb shell pm disable-user --user 0 com.samsung.android.game.gos
 
 ----------------------------------------------------------------------------------------------------
