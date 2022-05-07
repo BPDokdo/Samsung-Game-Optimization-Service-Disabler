@@ -1,4 +1,4 @@
-# Game-Optimization-Service-Disabler
+# Samsung-Game-Optimization-Service-Disabler
 
 ----------------------------------------------------------------------------------------------------
 
